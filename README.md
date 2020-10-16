@@ -1,4 +1,4 @@
-DEL-MDATP-IOC.ps1 is used to delete the IOCs in Microsoft Defender ATP.
+DEL-MDATP-IOC.ps1 is used to delete the IOCs on Microsoft Defender ATP.
     
     DEL-MDATP-IOC.ps1 <All | IpAddress | DomainName | Url | FileSha256 | FileSha1>
 
