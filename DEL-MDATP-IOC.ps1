@@ -35,6 +35,8 @@
 
 .DESCRIPTION 
 	Creation Date:  <10/08/2020>
+	https://github.com/banhao/MDATP-IOCs-delete
+	https://www.powershellgallery.com/packages/DEL-MDATP-IOC
 
 .Parameter
 
